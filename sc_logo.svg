@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="scholarly_commons_logo.svg"
+   sodipodi:docname="sc_logo.svg"
    inkscape:export-filename="/home/chris/devel/pentandra/scwg/scholarly_commons_logo_spiral_of_knowledge.png"
    inkscape:export-xdpi="89.987"
    inkscape:export-ydpi="89.987">
@@ -30,8 +30,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.97"
-     inkscape:cx="150"
-     inkscape:cy="150"
+     inkscape:cx="157.36041"
+     inkscape:cy="152.82458"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -141,5 +141,16 @@
        sodipodi:start="0.18932533"
        sodipodi:end="0.40482852"
        d="m 293.82991,929.92291 a 146.4467,146.4467 0 0 1 -9.2205,30.11894 L 150,902.36218 Z" />
+    <path
+       d="m 210.83594,1035.5749 a 146.4467,146.4467 0 0 1 -121.520886,0.069 L 150,902.36218 Z"
+       sodipodi:end="1.9980605"
+       sodipodi:start="1.142399"
+       sodipodi:ry="146.4467"
+       sodipodi:rx="146.4467"
+       sodipodi:cy="902.36218"
+       sodipodi:cx="150"
+       sodipodi:type="arc"
+       id="path5262"
+       style="opacity:0.75;fill:#fc804e;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
 </svg>
