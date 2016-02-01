@@ -40,7 +40,7 @@
      inkscape:cx="150"
      inkscape:cy="150"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1362"
@@ -80,6 +80,10 @@
        position="152.28427,150.67151"
        orientation="-0.31710166,-0.94839155"
        id="guide4911" />
+    <sodipodi:guide
+       position="152.28427,150.67151"
+       orientation="1,0"
+       id="guide4913" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -202,7 +206,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="pentagram"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <path
        sodipodi:type="star"
