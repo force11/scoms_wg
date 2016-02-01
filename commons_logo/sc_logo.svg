@@ -40,7 +40,7 @@
      inkscape:cx="150"
      inkscape:cy="150"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="false"
      units="px"
      inkscape:window-width="1362"
@@ -160,7 +160,7 @@
        width="178.21565" />
   </g>
   <g
-     inkscape:label="Logo"
+     inkscape:label="logo"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-752.36216)">
@@ -202,7 +202,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="pentagram"
-     style="display:inline">
+     style="display:none"
+     sodipodi:insensitive="true">
     <path
        sodipodi:type="star"
        style="opacity:0.675;fill:#4aa0f0;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1"
