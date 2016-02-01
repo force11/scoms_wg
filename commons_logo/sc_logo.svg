@@ -40,7 +40,7 @@
      inkscape:cx="150"
      inkscape:cy="150"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="false"
      units="px"
      inkscape:window-width="1362"
@@ -206,7 +206,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="pentagram"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <path
        sodipodi:type="star"
