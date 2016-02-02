@@ -42,7 +42,7 @@
      inkscape:window-y="17"
      inkscape:window-maximized="0"
      inkscape:snap-intersection-paths="false"
-     inkscape:object-paths="true"
+     inkscape:object-paths="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:snap-bbox-midpoints="false"
@@ -97,10 +97,10 @@
      transform="translate(0,-752.36216)">
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 130.09082,784.07596 c 0,0 -39.118502,-17.65995 -37.035162,-17.65995 -1.527685,30.68347 7.827282,38.94134 36.975792,52.77492 l 69.58476,32.44758 c 0,0 19.18325,78.23052 19.20508,78.13477 0.008,-0.0965 -44.89905,69.18703 -44.81055,69.14453 l 10.07422,21.73039 c -0.12216,0.059 67.36234,-84.56479 67.33203,-84.43156 -0.0275,0.13322 -24.11427,-105.38912 -24.02929,-105.2832 0.0849,0.10813 -97.16085,-46.85748 -97.29688,-46.85748 z"
+       d="m 93.055658,766.41601 c -1.527685,30.68347 28.659232,51.69504 58.295592,64.45005 l 48.26496,20.77245 c 0,0 19.18325,78.23052 19.20508,78.13477 0.008,-0.0965 -44.89905,69.18703 -44.81055,69.14453 l 10.07422,21.73039 c -0.12216,0.059 67.36234,-84.56479 67.33203,-84.43156 -0.0275,0.13322 -24.11427,-105.38912 -24.02929,-105.2832 -38.12169,-24.96493 -83.55491,-27.714 -134.332042,-64.51743 z"
        id="path4161"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sccccccccs" />
+       sodipodi:nodetypes="csccccccc" />
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 88.233408,823.42759 c -4.20543,2.01812 -15.630819,7.52297 -15.617191,7.50586 0.07474,-0.0964 -17.367418,76.27771 -21.476563,94.09375 -0.488616,2.11829 -2.553338,11.20309 -2.55664,11.18945 -0.03016,-0.13321 67.454656,84.49065 67.332036,84.43165 l 10.54296,-22.92379 18.30274,-39.80474 -40.91016,-37.10156 5.67774,-65.62305 20.56249,-12.25 -41.857412,-19.51757 z"
