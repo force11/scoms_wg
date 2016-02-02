@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="sc_logo.svg"
-   inkscape:export-filename="/home/chris/devel/pentandra/scholarly_commons/prototype2_flare.png"
+   inkscape:export-filename="/home/chris/devel/pentandra/scholarly_commons/prototype2_sculpted_flare.png"
    inkscape:export-xdpi="89.987"
    inkscape:export-ydpi="89.987">
   <defs
@@ -97,7 +97,7 @@
      transform="translate(0,-752.36216)">
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 93.055658,766.41601 c -1.527685,30.68347 28.659232,51.69504 58.295592,64.45005 l 48.26496,20.77245 c 0,0 19.18325,78.23052 19.20508,78.13477 0.008,-0.0965 -44.89905,69.18703 -44.81055,69.14453 l 10.07422,21.73039 c -0.12216,0.059 67.36234,-84.56479 67.33203,-84.43156 -0.0275,0.13322 -24.11427,-105.38912 -24.02929,-105.2832 -38.12169,-24.96493 -83.55491,-27.714 -134.332042,-64.51743 z"
+       d="m 93.055658,766.41601 c -1.527685,30.68347 28.659232,51.69504 58.295592,64.45005 l 48.26496,20.77245 c 0,0 19.18325,78.23052 19.20508,78.13477 0.008,-0.0965 -44.89905,69.18703 -44.81055,69.14453 l 10.07422,21.73039 c -0.12216,0.059 67.36234,-84.56479 67.33203,-84.43156 -0.0275,0.13322 -24.11427,-105.38912 -24.02929,-105.2832 -47.69093,-30.57818 -80.18316,-29.08785 -134.332042,-64.51743 z"
        id="path4161"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csccccccc" />
