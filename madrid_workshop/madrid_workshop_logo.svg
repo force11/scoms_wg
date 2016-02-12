@@ -17,6 +17,8 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="madrid_workshop_logo.svg">
+  <title
+     id="title8761">Logo for the Defining the Scholarly Commons workshop</title>
   <defs
      id="defs10466" />
   <sodipodi:namedview
@@ -26,7 +28,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
+     inkscape:zoom="2.3085938"
      inkscape:cx="128"
      inkscape:cy="128"
      inkscape:document-units="px"
@@ -103,8 +105,46 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>Logo for the Defining the Scholarly Commons workshop</dc:title>
+        <dc:date>2016-02-12</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Scholarly Commons Working Group</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>FORCE11</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Palacio de Comunicaciones</rdf:li>
+            <rdf:li>scholarly commons</rdf:li>
+            <rdf:li>scholarship</rdf:li>
+            <rdf:li>commoning</rdf:li>
+            <rdf:li>knowledge</rdf:li>
+            <rdf:li>light</rdf:li>
+            <rdf:li>understanding</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>A common man with an eye of light; a convergence of thought around scholarship, based on the clock at the top of the Palacio de Comunicaciones in Madrid, Spain.</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
