@@ -354,14 +354,11 @@
          id="path4356"
          inkscape:connector-curvature="0" />
     </g>
-    <rect
+    <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#8f003a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:35;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect11026"
-       width="256"
-       height="255.99998"
-       x="0"
-       y="796.36218"
-       transform="translate(0,-796.36216)" />
+       d="M 146.38477 251.4043 L 146.38477 502.80859 L 272.08594 502.80859 L 272.08594 455.66992 L 334.9375 455.66992 L 334.9375 408.53125 L 382.07422 408.53125 L 382.07422 361.39258 L 350.65039 361.39258 L 350.65039 298.54297 L 287.79883 298.54297 L 287.79883 282.83008 L 272.08594 282.83008 L 272.08594 251.4043 L 146.38477 251.4043 z M 319.22461 251.4043 L 319.22461 267.11719 L 382.07422 267.11719 L 382.07422 345.67969 L 397.78711 345.67969 L 397.78711 251.4043 L 319.22461 251.4043 z M 366.36328 424.24414 L 366.36328 487.0957 L 303.51172 487.0957 L 303.51172 502.80859 L 397.78711 502.80859 L 397.78711 424.24414 L 366.36328 424.24414 z "
+       transform="matrix(1.0182812,0,0,1.0182812,-149.05998,-256)"
+       id="rect11026" />
     <g
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#8f003a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:35;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="text4159"
@@ -568,12 +565,6 @@
      inkscape:label="convergence"
      style="display:inline"
      transform="translate(128,256)">
-    <path
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 128,0 48,0 0,16 64,0 0,80 16,0 0,80 -32,0 0,64 -64,0 0,16 -32,0 0,-48 64,0 0,-48 48,0 0,-48 -32,0 0,-64 -64,0 0,-16 -16,0 z"
-       id="path7949"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccc" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:start;letter-spacing:5.73999977px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#8f003a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:35;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -598,13 +589,13 @@
     <image
        sodipodi:absref="/home/chris/devel/pentandra/scholarly_commons/scoms_wg/madrid_workshop/9301215.jpg"
        xlink:href="9301215.jpg"
-       width="7067.0244"
-       height="4680.0142"
-       preserveAspectRatio="none"
-       id="image4382"
-       x="-3174.4038"
-       y="-1126.9285"
+       transform="matrix(0.01745241,0.9998477,-0.9998477,0.01745241,0,0)"
        style="display:inline;opacity:0.8"
-       transform="matrix(0.01745241,0.9998477,-0.9998477,0.01745241,0,0)" />
+       y="-1126.9285"
+       x="-3174.4038"
+       id="image4382"
+       preserveAspectRatio="none"
+       height="4680.0142"
+       width="7067.0244" />
   </g>
 </svg>
