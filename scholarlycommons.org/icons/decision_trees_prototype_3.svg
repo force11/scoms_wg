@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   id="svg10464"
+   version="1.1"
+   inkscape:version="0.92.1 r"
+   sodipodi:docname="decision_trees_prototype_3.svg"
+   inkscape:export-filename="/home/chris/devel/pentandra/scholarly_commons/scoms_wg/commons_logo/face_of_convergence_F11_alternate.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <title
+     id="title8761">Logo for the Defining the Scholarly Commons workshop (San Diego version)</title>
+  <defs
+     id="defs10466" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="128.00001"
+     inkscape:cy="127.96392"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4549"
+     showgrid="false"
+     units="px"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="false"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="false"
+     inkscape:object-nodes="true"
+     inkscape:object-paths="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1676"
+     inkscape:window-height="1046"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:snap-nodes="true"
+     inkscape:showpageshadow="false"
+     showborder="false"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-object-midpoints="true">
+    <sodipodi:guide
+       position="256,256"
+       orientation="0,1"
+       id="guide5991"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="232,168"
+       orientation="0,1"
+       id="guide5993"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="240,24"
+       orientation="0,1"
+       id="guide5997"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="232,136"
+       orientation="1,0"
+       id="guide5999"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="176,152"
+       orientation="1,0"
+       id="guide6001"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="256,155.32995"
+       orientation="1,0"
+       id="guide6003"
+       inkscape:locked="false" />
+    <inkscape:grid
+       type="axonomgrid"
+       id="grid6007"
+       units="px"
+       empspacing="3"
+       spacingy="9.2"
+       gridanglex="30"
+       originx="0"
+       visible="true"
+       enabled="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid7872"
+       dotted="false"
+       enabled="true"
+       empspacing="2"
+       color="#ff2b00"
+       opacity="0.1254902"
+       snapvisiblegridlinesonly="false"
+       spacingx="8"
+       spacingy="8" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata10469">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Logo for the Defining the Scholarly Commons workshop (San Diego version)</dc:title>
+        <dc:date>2016-09-13</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Scholarly Commons Working Group</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>FORCE11</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Palacio de Comunicaciones</rdf:li>
+            <rdf:li>scholarly commons</rdf:li>
+            <rdf:li>scholarship</rdf:li>
+            <rdf:li>commoning</rdf:li>
+            <rdf:li>knowledge</rdf:li>
+            <rdf:li>light</rdf:li>
+            <rdf:li>understanding</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>A common man with an eye of light; a convergence of thought around scholarship, based on the clock at the top of the Palacio de Comunicaciones in Madrid, Spain.</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="San Diego"
+     style="display:inline" />
+  <g
+     inkscape:label="eye of light"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-796.36216)"
+     style="display:none">
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 96.5,64 a 64.500023,64.500023 0 0 0 -5.375,0.28125 L 96.5,128.5 110.86523,65.681641 A 64.500023,64.500023 0 0 0 96.5,64 Z m 0,64.5 44.66016,-46.464844 a 64.500023,64.500023 0 0 0 -12.78711,-9.55664 z m 0,0 61.3125,-19.71875 A 64.500023,64.500023 0 0 0 151.75,95.421875 Z m 0,0 62.68164,14.88281 A 64.500023,64.500023 0 0 0 161,128.5 a 64.500023,64.500023 0 0 0 -0.19727,-3.72852 z m 0,0 47.74414,43.2207 a 64.500023,64.500023 0 0 0 9.39258,-13.35937 z m 0,0 20.91406,60.88867 a 64.500023,64.500023 0 0 0 13.89258,-6.6875 z m 0,0 -10.708984,63.5918 A 64.500023,64.500023 0 0 0 96.5,193 a 64.500023,64.500023 0 0 0 6.37891,-0.33398 z m 0,0 -32.191406,55.75977 a 64.500023,64.500023 0 0 0 9.617187,4.62109 z m 0,0 -55.765625,32.19531 a 64.500023,64.500023 0 0 0 10.207031,13.36524 z m 0,0 H 32 a 64.500023,64.500023 0 0 0 2.294922,16.66602 z m 0,0 L 42.923828,92.712891 A 64.500023,64.500023 0 0 0 34.222656,111.8125 Z m 0,0 L 73.189453,68.492188 A 64.500023,64.500023 0 0 0 57.091797,77.560547 Z M 90.353516,64.322266 a 64.500023,64.500023 0 0 0 -1.140625,0.146484 64.500023,64.500023 0 0 1 1.140625,-0.146484 z m -6.136719,0.914062 a 64.500023,64.500023 0 0 0 -1.625,0.363281 64.500023,64.500023 0 0 1 1.625,-0.363281 z m 28.988283,1.042969 a 64.500023,64.500023 0 0 1 3.10937,0.876953 64.500023,64.500023 0 0 0 -3.10937,-0.876953 z m -35.468752,0.572265 a 64.500023,64.500023 0 0 0 -0.894531,0.298829 64.500023,64.500023 0 0 1 0.894531,-0.298829 z m 41.615232,1.414063 a 64.500023,64.500023 0 0 1 2.97656,1.169922 64.500023,64.500023 0 0 0 -2.97656,-1.169922 z m 6.32422,2.787109 a 64.500023,64.500023 0 0 1 2.18945,1.113282 64.500023,64.500023 0 0 0 -2.18945,-1.113282 z m -70.427733,7.910157 a 64.500023,64.500023 0 0 0 -1.496094,1.34375 64.500023,64.500023 0 0 1 1.496094,-1.34375 z m -4.744141,4.371093 a 64.500023,64.500023 0 0 0 -1.298828,1.425782 64.500023,64.500023 0 0 1 1.298828,-1.425782 z m -4.308594,4.855469 a 64.500023,64.500023 0 0 0 -1.02539,1.380859 64.500023,64.500023 0 0 1 1.02539,-1.380859 z M 33.142578,116.63477 a 64.500023,64.500023 0 0 0 -0.474609,3.13476 64.500023,64.500023 0 0 1 0.474609,-3.13476 z m 125.773442,27.93359 a 64.500023,64.500023 0 0 1 -0.89844,3.08984 64.500023,64.500023 0 0 0 0.89844,-3.08984 z m -1.91797,6.1582 a 64.500023,64.500023 0 0 1 -1.19727,2.9668 64.500023,64.500023 0 0 0 1.19727,-2.9668 z m -120.189456,2.00782 a 64.500023,64.500023 0 0 0 0.4375,1.11523 64.500023,64.500023 0 0 1 -0.4375,-1.11523 z m 117.318356,4.69921 a 64.500023,64.500023 0 0 1 -0.24609,0.50196 64.500023,64.500023 0 0 0 0.24609,-0.50196 z m -114.378903,1.57227 a 64.500023,64.500023 0 0 0 0.261719,0.51172 64.500023,64.500023 0 0 1 -0.261719,-0.51172 z m 103.503903,13.84375 a 64.500023,64.500023 0 0 1 -1.52148,1.52148 64.500023,64.500023 0 0 0 1.52148,-1.52148 z m -4.63867,4.42969 a 64.500023,64.500023 0 0 1 -1.75195,1.42968 64.500023,64.500023 0 0 0 1.75195,-1.42968 z m -82.968749,1.03515 a 64.500023,64.500023 0 0 0 1.542969,1.23047 64.500023,64.500023 0 0 1 -1.542969,-1.23047 z m 77.499999,3.22461 a 64.500023,64.500023 0 0 1 -0.45117,0.31055 64.500023,64.500023 0 0 0 0.45117,-0.31055 z m -72.271483,0.63867 a 64.500023,64.500023 0 0 0 1.558594,1.00586 64.500023,64.500023 0 0 1 -1.558594,-1.00586 z m 54.968753,7.78907 a 64.500023,64.500023 0 0 1 -1.03321,0.29882 64.500023,64.500023 0 0 0 1.03321,-0.29882 z m -37.943362,0.23632 a 64.500023,64.500023 0 0 0 1.480468,0.47657 64.500023,64.500023 0 0 1 -1.480468,-0.47657 z m 4.455078,1.14454 a 64.500023,64.500023 0 0 0 3.310546,0.72851 64.500023,64.500023 0 0 1 -3.310546,-0.72851 z m 27.466794,0.20507 a 64.500023,64.500023 0 0 1 -1.8125,0.33008 64.500023,64.500023 0 0 0 1.8125,-0.33008 z"
+       id="path8067"
+       inkscape:connector-curvature="0"
+       transform="translate(0,796.36216)" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 145.00005,924.86218 A 48.500023,48.500023 0 0 1 96.500023,973.36221 48.500023,48.500023 0 0 1 48,924.86218 48.500023,48.500023 0 0 1 96.500023,876.36216 48.500023,48.500023 0 0 1 145.00005,924.86218 Z"
+       id="circle8069"
+       inkscape:connector-curvature="0" />
+    <path
+       cx="96.500023"
+       cy="924.86218"
+       r="64.500023"
+       id="path8071"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#ffcc00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d=""
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="convergence"
+     style="display:inline">
+    <g
+       id="g4549">
+      <g
+         id="g5299"
+         transform="rotate(90,128,128.07217)">
+        <rect
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#266b82;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:35;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="rect11026"
+           width="256"
+           height="255.99998"
+           x="0"
+           y="796.36218"
+           transform="translate(0,-796.36216)" />
+        <path
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           d="m 224,0.14431 h -64 v 16 H 96 l 0,80 -64.07217,-0.07214 v 31.85569 l -32,0.14434 v 32 l 48,0.0721 v 31.92787 h 80 V 240.1443 H 192 v 16 h 32 v -15.94586 l 0,-32.05414 h -48.07217 v -48 h -112 v -48 h 80 v -64 H 192 v -16 h 32 z"
+           id="path7949"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccccccccccccccccccccc" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Palacio de Comunicaciones"
+     style="display:none"
+     transform="translate(0,-44)"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/chris/devel/pentandra/scholarly_commons/scoms_wg/madrid_workshop/9301215.jpg"
+       xlink:href="file:///home/chris/devel/pentandra/scholarly_commons/scoms_wg/madrid_workshop/9301215.jpg"
+       width="7067.0244"
+       height="4680.0142"
+       preserveAspectRatio="none"
+       id="image4382"
+       x="-3174.4038"
+       y="-1126.9285"
+       style="display:inline;opacity:0.8"
+       transform="matrix(0.01745241,0.9998477,-0.9998477,0.01745241,0,0)" />
+  </g>
+</svg>
